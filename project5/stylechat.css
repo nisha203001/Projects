@@ -1,0 +1,37 @@
+body{
+    font-family: Times New Roman;
+    background-color: #f4f4f4;
+    color: black;
+    font-size: 18px;
+}
+
+#my-name{
+    background-color: navy;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.skill-list{
+    background-color: lightblue;
+}
+
+h2{
+    color: darkblue;
+}
+
+table{
+    background-color: white;
+}
+
+button{
+    background-color: green;
+    color: white;
+    font-size: 16px;
+}
+
+footer{
+    background-color: navy;
+    color: white;
+    text-align: center;
+}

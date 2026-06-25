@@ -1,0 +1,36 @@
+ body{
+    background-color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+ }
+ 
+ 
+.card{
+    background-color: white;
+    font-size: 26px;
+}
+
+.title{
+    font-size: 22px;
+    
+    color: blue;
+}
+.price{
+    font-size: 22px;
+    
+    color: green;
+}
+p{
+    font-size: 24px;
+}
+ul{
+    font-size: 24px;
+}
+ol{
+    font-size: 24px;
+}
+header{
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
